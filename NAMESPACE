@@ -28,8 +28,5 @@ S3method(plot,kpmfe.fun)
 
 S3method(print,reg.fun)
 
-
-
-
-
-
+importFrom("graphics", "hist", "lines", "plot.default")
+importFrom("stats", "approx", "dbinom", "dgamma", "dlnorm")

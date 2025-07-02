@@ -1,4 +1,4 @@
-6be6c48c18b10bce8485035ec8c938cf *DESCRIPTION
+24f9ef7c97f45052ae4c84d8d89df4d6 *DESCRIPTION
 b713ac62c9af951fadbd7096d234cc6a *NAMESPACE
 12eb893947afc7dd68ae95ce90bcfd1b *R/dke.fun.R
 f36687bb037dda6af22cf1e380465ee9 *R/dke.fun.default.R
@@ -41,7 +41,7 @@ d285248752942779102c3cee939d4769 *man/hcvd.fun.Rd
 058d7ba582eef2e14e96101bf9dabf1f *man/kern.fun.Rd
 1dcf9ffd2527258c4bac178ebecf806e *man/kpmfe.fun.Rd
 d41304da7a28588b7ad76f485ec9e556 *man/milk.Rd
-4889163ed15a4f6f791f00f6a5bcf752 *man/plot.dke.fun.Rd
+cdb8099aa70bbe3db43db43841e6633f *man/plot.dke.fun.Rd
 e514980e79d8b382f506fd47b4909c90 *man/plot.hcvc.fun.Rd
 438d05e5de412d1bdbd1f59475724239 *man/plot.kern.fun.Rd
 774ed880546e04808fbe75a1706fcb5f *man/plot.kpmfe.fun.Rd

@@ -30,7 +30,7 @@ ylab = NULL, type = "l", las = 1, lwd = 1, col = "blue", lty = 1, \dots)
   \item{type}{ the type parameter
 
 }
-  \item{las}{ Numeric in {0,1,2,3}; the style of axis labels. 
+  \item{las}{ Numeric in \{0,1,2,3\}; the style of axis labels. 
 
 }
   \item{lwd}{The line width, a positive number, defaulting to 1.
